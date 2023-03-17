@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:title="Home"
+              android:id="@+id/home"
+              android:icon="@drawable/home_icon"/>
+
+        <item android:title="Local"
+              android:id="@+id/Local_Calender"
+              android:icon="@drawable/local_icon"/>
+
+        <item android:title="Global"
+              android:id="@+id/Globle_Calender"
+              android:icon="@drawable/globle_icon"/>
+</menu>
